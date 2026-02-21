@@ -30,8 +30,7 @@
 
 ---
 
-✨ Направено за учење и забава!
-Ако ти се допаѓа играта – слободно подобри ја или додај нови прашања 😊
+✨ Направено за учење и забава! 😊
 ---
 ---
 # 🎮 Safe Internet Pong
@@ -66,8 +65,7 @@ Players enjoy a classic Pong experience while answering questions about **safe i
 
 ---
 
-✨ Created for learning and fun!
-Feel free to improve the game or add more questions 😊
+✨ Created for learning and fun! 😊
 ---
 ### Download the game
 https://naumvlavceski.itch.io/safe-internet-pong
