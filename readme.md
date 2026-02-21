@@ -76,3 +76,8 @@ https://naumvlavceski.itch.io/safe-internet-pong
 
 [![Safe Internet Pong Demo](img.png)](https://www.youtube.com/watch?v=r9IpC8EARxE)
 
+### Made by
+* 226093 Наум Влавчески
+* 211142 Али Шупани
+* 225017 Надиа Лабринеа
+
