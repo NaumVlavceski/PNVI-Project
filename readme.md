@@ -68,5 +68,9 @@ Players enjoy a classic Pong experience while answering questions about **safe i
 
 ✨ Created for learning and fun!
 Feel free to improve the game or add more questions 😊
+---
+### Download the game
+https://naumvlavceski.itch.io/safe-internet-pong
 
+[![Safe Internet Pong Demo](img.png)](https://www.youtube.com/watch?v=r9IpC8EARxE)
 
